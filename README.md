@@ -4,5 +4,5 @@ This is a really cool site!
 
 hello world!!!
 
-## Get going!
-do sometttting!!!
+Edited readme file from remote and local copy
+to resolve conflict.
