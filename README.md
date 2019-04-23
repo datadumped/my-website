@@ -1,9 +1,6 @@
 # my-website
 
-this is some text
+This is a really cool site!
 
-Hello
+hello world!!!
 
-new text in readme file
-
-more tweaks
